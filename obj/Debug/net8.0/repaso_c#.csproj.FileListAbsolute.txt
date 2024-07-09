@@ -1,0 +1,14 @@
+/home/riwip5-006/SIMON77/repaso_c#/bin/Debug/net8.0/repaso_c#
+/home/riwip5-006/SIMON77/repaso_c#/bin/Debug/net8.0/repaso_c#.deps.json
+/home/riwip5-006/SIMON77/repaso_c#/bin/Debug/net8.0/repaso_c#.runtimeconfig.json
+/home/riwip5-006/SIMON77/repaso_c#/bin/Debug/net8.0/repaso_c#.dll
+/home/riwip5-006/SIMON77/repaso_c#/bin/Debug/net8.0/repaso_c#.pdb
+/home/riwip5-006/SIMON77/repaso_c#/obj/Debug/net8.0/repaso_c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-006/SIMON77/repaso_c#/obj/Debug/net8.0/repaso_c#.AssemblyInfoInputs.cache
+/home/riwip5-006/SIMON77/repaso_c#/obj/Debug/net8.0/repaso_c#.AssemblyInfo.cs
+/home/riwip5-006/SIMON77/repaso_c#/obj/Debug/net8.0/repaso_c#.csproj.CoreCompileInputs.cache
+/home/riwip5-006/SIMON77/repaso_c#/obj/Debug/net8.0/repaso_c#.dll
+/home/riwip5-006/SIMON77/repaso_c#/obj/Debug/net8.0/refint/repaso_c#.dll
+/home/riwip5-006/SIMON77/repaso_c#/obj/Debug/net8.0/repaso_c#.pdb
+/home/riwip5-006/SIMON77/repaso_c#/obj/Debug/net8.0/repaso_c#.genruntimeconfig.cache
+/home/riwip5-006/SIMON77/repaso_c#/obj/Debug/net8.0/ref/repaso_c#.dll
